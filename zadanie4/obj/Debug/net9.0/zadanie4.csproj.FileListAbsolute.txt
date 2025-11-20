@@ -1,0 +1,14 @@
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie4\bin\Debug\net9.0\zadanie4.exe
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie4\bin\Debug\net9.0\zadanie4.deps.json
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie4\bin\Debug\net9.0\zadanie4.runtimeconfig.json
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie4\bin\Debug\net9.0\zadanie4.dll
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie4\bin\Debug\net9.0\zadanie4.pdb
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie4\obj\Debug\net9.0\zadanie4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie4\obj\Debug\net9.0\zadanie4.AssemblyInfoInputs.cache
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie4\obj\Debug\net9.0\zadanie4.AssemblyInfo.cs
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie4\obj\Debug\net9.0\zadanie4.csproj.CoreCompileInputs.cache
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie4\obj\Debug\net9.0\zadanie4.dll
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie4\obj\Debug\net9.0\refint\zadanie4.dll
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie4\obj\Debug\net9.0\zadanie4.pdb
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie4\obj\Debug\net9.0\zadanie4.genruntimeconfig.cache
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie4\obj\Debug\net9.0\ref\zadanie4.dll
