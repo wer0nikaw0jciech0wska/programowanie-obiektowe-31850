@@ -1,0 +1,5 @@
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie6\obj\Debug\net9.0\zadanie6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie6\obj\Debug\net9.0\zadanie6.AssemblyInfoInputs.cache
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie6\obj\Debug\net9.0\zadanie6.AssemblyInfo.cs
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie6\obj\Debug\net9.0\zadanie6.csproj.CoreCompileInputs.cache
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie6\obj\Debug\net9.0\zadanie6.sourcelink.json
