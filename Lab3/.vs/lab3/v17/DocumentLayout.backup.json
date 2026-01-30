@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D1E8E7-EB06-409C-8BD1-ACE402EFE127}|lab3.csproj|c:\\users\\werka\\desktop\\programowanie-obiektowe-31850\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D1E8E7-EB06-409C-8BD1-ACE402EFE127}|lab3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D1E8E7-EB06-409C-8BD1-ACE402EFE127}|lab3.csproj|c:\\users\\werka\\desktop\\programowanie-obiektowe-31850\\lab3\\lab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5D1E8E7-EB06-409C-8BD1-ACE402EFE127}|lab3.csproj|solutionrelative:lab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D1E8E7-EB06-409C-8BD1-ACE402EFE127}|lab3.csproj|c:\\users\\werka\\desktop\\programowanie-obiektowe-31850\\lab3\\database\\carsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D1E8E7-EB06-409C-8BD1-ACE402EFE127}|lab3.csproj|solutionrelative:database\\carsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D1E8E7-EB06-409C-8BD1-ACE402EFE127}|lab3.csproj|c:\\users\\werka\\desktop\\programowanie-obiektowe-31850\\lab3\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D1E8E7-EB06-409C-8BD1-ACE402EFE127}|lab3.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D1E8E7-EB06-409C-8BD1-ACE402EFE127}|lab3.csproj|c:\\users\\werka\\desktop\\programowanie-obiektowe-31850\\lab3\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D1E8E7-EB06-409C-8BD1-ACE402EFE127}|lab3.csproj|solutionrelative:bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D1E8E7-EB06-409C-8BD1-ACE402EFE127}|lab3.csproj|c:\\users\\werka\\desktop\\programowanie-obiektowe-31850\\lab3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D1E8E7-EB06-409C-8BD1-ACE402EFE127}|lab3.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D1E8E7-EB06-409C-8BD1-ACE402EFE127}|lab3.csproj|c:\\users\\werka\\desktop\\programowanie-obiektowe-31850\\lab3\\bikes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5D1E8E7-EB06-409C-8BD1-ACE402EFE127}|lab3.csproj|solutionrelative:bikes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D1E8E7-EB06-409C-8BD1-ACE402EFE127}|lab3.csproj|c:\\users\\werka\\desktop\\programowanie-obiektowe-31850\\lab3\\cars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5D1E8E7-EB06-409C-8BD1-ACE402EFE127}|lab3.csproj|solutionrelative:cars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarsDb.cs",
+              "DocumentMoniker": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\Database\\CarsDb.cs",
+              "RelativeDocumentMoniker": "Database\\CarsDb.cs",
+              "ToolTip": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\Database\\CarsDb.cs",
+              "RelativeToolTip": "Database\\CarsDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:51:45.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab3",
+              "DocumentMoniker": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\lab3.csproj",
+              "RelativeDocumentMoniker": "lab3.csproj",
+              "ToolTip": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\lab3.csproj",
+              "RelativeToolTip": "lab3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-16T16:18:52.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bikes.json",
+              "DocumentMoniker": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\bikes.json",
+              "RelativeDocumentMoniker": "bikes.json",
+              "ToolTip": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\bikes.json",
+              "RelativeToolTip": "bikes.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-16T16:19:06.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cars.json",
+              "DocumentMoniker": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\cars.json",
+              "RelativeDocumentMoniker": "cars.json",
+              "ToolTip": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\cars.json",
+              "RelativeToolTip": "cars.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-16T16:07:26.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\Bike.cs",
+              "RelativeDocumentMoniker": "Bike.cs",
+              "ToolTip": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\Bike.cs",
+              "RelativeToolTip": "Bike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:20:42.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:20:29.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:20:01.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAALQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:17:16.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

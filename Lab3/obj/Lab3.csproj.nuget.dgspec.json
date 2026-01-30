@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/balex/Lab3/Lab3.csproj": {}
+    "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\lab3.csproj": {}
   },
   "projects": {
-    "/home/balex/Lab3/Lab3.csproj": {
+    "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/balex/Lab3/Lab3.csproj",
-        "projectName": "Lab3",
-        "projectPath": "/home/balex/Lab3/Lab3.csproj",
-        "packagesPath": "/home/balex/.nuget/packages/",
-        "outputPath": "/home/balex/Lab3/obj/",
+        "projectUniqueName": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\lab3.csproj",
+        "projectName": "lab3",
+        "projectPath": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\lab3.csproj",
+        "packagesPath": "C:\\Users\\werka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\werka\\Desktop\\programowanie-obiektowe-31850\\lab3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/balex/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\werka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,6 +45,22 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

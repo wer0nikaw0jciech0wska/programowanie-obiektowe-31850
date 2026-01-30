@@ -1,0 +1,15 @@
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie8\bin\Debug\net9.0\zadanie8.exe
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie8\bin\Debug\net9.0\zadanie8.deps.json
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie8\bin\Debug\net9.0\zadanie8.runtimeconfig.json
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie8\bin\Debug\net9.0\zadanie8.dll
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie8\bin\Debug\net9.0\zadanie8.pdb
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie8\obj\Debug\net9.0\zadanie8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie8\obj\Debug\net9.0\zadanie8.AssemblyInfoInputs.cache
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie8\obj\Debug\net9.0\zadanie8.AssemblyInfo.cs
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie8\obj\Debug\net9.0\zadanie8.csproj.CoreCompileInputs.cache
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie8\obj\Debug\net9.0\zadanie8.sourcelink.json
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie8\obj\Debug\net9.0\zadanie8.dll
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie8\obj\Debug\net9.0\refint\zadanie8.dll
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie8\obj\Debug\net9.0\zadanie8.pdb
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie8\obj\Debug\net9.0\zadanie8.genruntimeconfig.cache
+C:\Users\werka\Desktop\programowanie-obiektowe-31850\zadanie8\obj\Debug\net9.0\ref\zadanie8.dll

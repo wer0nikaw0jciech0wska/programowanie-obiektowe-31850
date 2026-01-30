@@ -1,34 +1,34 @@
-namespace Lab3;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-public abstract class Vehicle
+namespace zadanie8
 {
-    
-    public double EngineCapacity { get; protected set; }
-    private string _model;
-    private int _year;
-    
-    public string Model => _model;
+    public abstract class Vehicle
+    {
+        public int Id { get; protected set; }
+        public double EngineCapacity { get; protected set; }
 
-    public int Year
-    {
-        get { return _year; }
-    }
-    public Vehicle(double engineCapacity, string model, int year)
-    {
-        EngineCapacity = engineCapacity;
-        this._model = model;
-        this._year = year;
-    }
+        public string Model { get; protected set; }
 
-    public virtual void Start()
-    {
-        Console.WriteLine("Vehicle started");
-    }
+        public int Year {  get; protected set; }
 
-    public void Stop()
-    {
-        Console.WriteLine("Vehicle stopped");
+        public Vehicle(double engineCapacity, string model, int year)
+        {
+            EngineCapacity = engineCapacity;
+            Model = model;
+            Year = year;
+        }
+        public virtual void Start()
+        {
+            Console.WriteLine("Vehicle stared");
+        }
+        public void Stop()
+        {
+            Console.WriteLine("Vehicle stopped");
+        }
+        public abstract void Test();
     }
-    
-    public abstract void Test();
 }
